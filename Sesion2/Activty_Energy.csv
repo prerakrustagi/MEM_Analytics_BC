@@ -1,0 +1,51 @@
+﻿Activity,Energy_Cons,Sector
+Space Heating,39.4,Education
+Cooling,8,Education
+Ventilation,8.4,Education
+Water Heating,5.8,Education
+Lighting,11.5,Education
+Cooking,0.8,Education
+Refrigeration,1.6,Education
+Office Equipment,0.4,Education
+Computers,3.4,Education
+Other,4,Education
+Space Heating,28.9,Food Sales
+Cooling,9.8,Food Sales
+Ventilation,5.9,Food Sales
+Water Heating,2.9,Food Sales
+Lighting,36.7,Food Sales
+Cooking,8.6,Food Sales
+Refrigeration,94.8,Food Sales
+Office Equipment,1.6,Food Sales
+Computers,1.9,Food Sales
+Other,9.1,Food Sales
+Space Heating,43.1,Food Service
+Cooling,17.4,Food Service
+Ventilation,14.8,Food Service
+Water Heating,40.4,Food Service
+Lighting,25.4,Food Service
+Cooking,63.5,Food Service
+Refrigeration,42.1,Food Service
+Office Equipment,1,Food Service
+Computers,1.4,Food Service
+Other,9.5,Food Service
+Space Heating,70.4,Health Care
+Cooling,14.1,Health Care
+Ventilation,13.3,Health Care
+Water Heating,30.2,Health Care
+Lighting,33.1,Health Care
+Cooking,3.5,Health Care
+Refrigeration,2.6,Health Care
+Office Equipment,1.2,Health Care
+Computers,3.4,Health Care
+Other,16.1,Health Care
+Space Heating,91.8,Inpatient
+Cooling,18.6,Inpatient
+Ventilation,20,Inpatient
+Water Heating,48.4,Inpatient
+Lighting,40.1,Inpatient
+Cooking,5.6,Inpatient
+Refrigeration,2,Inpatient
+Office Equipment,1.1,Inpatient
+Computers,3.9,Inpatient
+Other,18.1,Inpatient
